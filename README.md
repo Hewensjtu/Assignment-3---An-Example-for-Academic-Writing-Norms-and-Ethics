@@ -8,7 +8,7 @@
 This is an exemplar LaTeX project for the course *Academic Writing, Norms, and Ethics*. The "History" mentioned in the class can be found on the **top right** of this page. If you have any questions, feel free to contact me on Canvas or through emails. The remaining parts of this page are from the template of the online LaTeX editor.
 
 <div align="center">
-  <img src="figure.jpg" alt="The Universe" width="70%">
+  <img src="universe.jpg" alt="The Universe" width="70%">
   <br>
   <em>Figure 1: The Universe</em>
 </div>
